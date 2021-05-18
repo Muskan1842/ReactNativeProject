@@ -8,8 +8,7 @@ import {
     TextInput,
     Button,
     FlatList,
-    Image,
-    YellowBox
+    Image
 } from 'react-native';
 
 export default function ContainerComponent(props) {
